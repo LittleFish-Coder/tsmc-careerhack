@@ -1,0 +1,14 @@
+{
+  "key1": {
+    "turn": false,
+    "intensity": 10
+  },
+  "key2": {
+    "turn": true,
+    "intensity": 2
+  },
+  "key3": {
+    "turn": true,
+    "intensity": 2
+  }
+}
